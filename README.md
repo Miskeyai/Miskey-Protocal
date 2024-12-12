@@ -11,7 +11,7 @@
 <img src="pos.png" width="550px" alt="Miskey" style="margin-left:-35px">
 
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter/follow/portkeyai?style=social&label=FollowMiskey)](https://x.com/RAYAFDF)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter/follow/portkeyai?style=social&label=FollowMiskey)](https://x.com/FAHUJC)
 
 </div>
 
